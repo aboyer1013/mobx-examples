@@ -1,5 +1,5 @@
 # mobx-examples
-A collection of simple mobx examples.  All the examples below have been written in ES5 without JSX.  No transpiling required.
+A collection of simple MobX examples.  All the examples below have been written in ES5 without JSX.  No transpiling required.
 Please feel free to make any suggestions for improvement.
 
 [Baseline JSFiddle](https://jsfiddle.net/gh/get/library/pure/mattruby/mobx-examples/tree/master/baseline)
